@@ -1,0 +1,16 @@
+bank_id ,Institute_name,Tyoe,loan_amount,interest_rate,tenure_years,churn_status 
+b001,SBI,bank,500000,8.5,5,0
+b002,HDFC,bank,300000,9.2,3,1
+b003,ICIC,bank,700000,8.8,7,0
+b004,Axis bank,bank,250000,9.5,2,1
+b005,Kotak Mahindra,bank,400000,8.7,4,0
+b006,IDFC first,bank,350000,9.1,3,1
+f007,Bajaj Finanace,finance Co.,200000,12,2,1
+f008,Tatal Capital,finance Co.,600000,11.5,5,0
+f009,LIC Housing,finance Co.,800000,10.8,8,0
+f010,Muthoot finance,finance Co.,150000,13,1,1
+f011,Indiabulls,finance Co.,450000,11.2,6,0
+f012,Mahindra finance ,finance Co.,550000,12.3,5,1
+b013,Punjab National,bank,480000,8.9,5,0
+b014 ,Bank of Baroda,bank,320000,9.4,4,1
+f015,Shriram finance,finance Co.,300000,12.5,3,1
